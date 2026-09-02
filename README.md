@@ -8,6 +8,7 @@
 | [0728-self-dividing-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lokesh2506/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/lokesh2506/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1688-count-of-matches-in-tournament](https://github.com/lokesh2506/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/lokesh2506/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Hash Table
