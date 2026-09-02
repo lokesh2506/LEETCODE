@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/lokesh2506/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/lokesh2506/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/lokesh2506/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
