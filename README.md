@@ -15,6 +15,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lokesh2506/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lokesh2506/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
