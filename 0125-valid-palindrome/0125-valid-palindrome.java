@@ -4,15 +4,20 @@ class Solution {
             return true;
         }
 
-        if(!Character.isLetterOrDigit(str.charAt(i))){
+        char ch1= str.charAt(i);
+        char ch2 = str.charAt(j);
+
+        if(!((ch1 >= 'A' && ch1 <= 'Z') ||(ch1 >= 'a' && ch1 <= 'z') ||(ch1 >= '0' && ch1 <= '9'))){
             i++;
-        }else if(!Character.isLetterOrDigit(str.charAt(j))){
+        }else if(!((ch2 >= 'A' && ch2 <= 'Z') || (ch2 >= 'a' && ch2 <= 'z') || (ch2 >= '0' && ch2 <= '9'))){
             j--;
         }else{
-            if(Character.toLowerCase(str.charAt(i)) != Character.toLowerCase(str.charAt(j))){
-                return false;
-            }
-            i++;j--;
+            if(ch1>='A' && ch1<='Z') ch1+=32;
+            if(ch2>='A' && ch2<='Z') ch2+=32;
+
+            if(ch1!=ch2) return false;
+            i++;
+            j--;
         }
         
         return palidromeCheck(i,j,str);
