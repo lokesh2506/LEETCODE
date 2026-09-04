@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
