@@ -28,6 +28,7 @@
 | [1920-build-array-from-permutation](https://github.com/lokesh2506/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
 | ------- |
