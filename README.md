@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/lokesh2506/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lokesh2506/LEETCODE/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lokesh2506/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -20,6 +21,7 @@
 | [0027-remove-element](https://github.com/lokesh2506/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lokesh2506/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -43,6 +45,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -62,6 +65,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -112,4 +116,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
