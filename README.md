@@ -47,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
