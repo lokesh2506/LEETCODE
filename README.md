@@ -86,6 +86,7 @@
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/lokesh2506/LEETCODE/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lokesh2506/LEETCODE/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/lokesh2506/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
