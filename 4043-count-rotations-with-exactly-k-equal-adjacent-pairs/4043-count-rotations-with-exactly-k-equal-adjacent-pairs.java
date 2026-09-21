@@ -1,30 +1,37 @@
 class Solution {
     public int countRotations(String s, int k) {
+        int count = 0;
         int size = s.length();
-        int ans = 0;
 
+        int rotation = 0;
 
-        int score = 0;
         for(int i=0;i<size-1;i++){
             if(s.charAt(i) == s.charAt(i+1)){
-                score++;
+                rotation++;
             }
         }
 
-        if(k == score) ans++;
+        if(rotation == k) count++;
 
-        // Rotation
-        for(int i=1;i<size;i++){
-            if(s.charAt(i-1) == s.charAt(i)){
-                score--;
-            }
-            if(s.charAt(i-1) == s.charAt((i-2+size)%size)){
-                score++;
+        int j = 1;
+
+        char ch = s.charAt(size-1);
+        while(j<size){
+            if(s.charAt(j) ==  s.charAt(j-1)){
+                rotation--;
             }
 
-            if(k == score) ans++;
+            if(s.charAt(j-1) == ch){
+                rotation++;
+            }
+
+            ch = s.charAt(j-1);
+
+
+            if(rotation == k) count++;
+            j++;
         }
 
-        return ans;
+        return count;       
     }
 }
