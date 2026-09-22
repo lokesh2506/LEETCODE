@@ -61,6 +61,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokesh2506/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -97,6 +98,7 @@
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/lokesh2506/LEETCODE/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
