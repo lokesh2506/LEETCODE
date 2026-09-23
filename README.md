@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/lokesh2506/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +90,7 @@
 | [0001-two-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lokesh2506/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
