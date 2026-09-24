@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/lokesh2506/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/lokesh2506/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -133,6 +134,7 @@
 | [0238-product-of-array-except-self](https://github.com/lokesh2506/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/lokesh2506/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
