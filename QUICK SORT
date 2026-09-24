@@ -1,0 +1,45 @@
+import java.util.*;
+
+public class Main {
+    public static int pivotIndex(int nums[],int low,int high){
+      int left = low;
+      int right = high;
+
+      int pivot = nums[low];
+
+      while(left<right){
+        while(nums[left]<=pivot && left < high){
+          left++;
+        }
+        while(nums[right]>=pivot && right > low){
+          right--;
+        }
+        if(left<right){
+          int temp = nums[left];
+          nums[left] = nums[right];
+          nums[right] = temp;
+        }
+      }
+
+      int temp = nums[right];
+      nums[right] = nums[low];
+      nums[low] = temp;
+
+      return right;
+
+    } 
+    public static void quickSort(int nums[],int low,int high){
+      if(low >= high) return;
+
+      int pivot = pivotIndex(nums,low,high);
+
+      quickSort(nums,low,pivot-1);
+      quickSort(nums,pivot+1,high);
+
+    } 
+    public static void main(String[] args) {
+      int nums[] = {9,3,5,1,7,0,7,10,2};
+      quickSort(nums,0,nums.length-1);
+      System.out.println(Arrays.toString(nums));
+    }
+}
