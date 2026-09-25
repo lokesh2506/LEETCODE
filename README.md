@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/lokesh2506/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokesh2506/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lokesh2506/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/lokesh2506/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lokesh2506/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -113,6 +115,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -174,6 +177,7 @@
 | [0015-3sum](https://github.com/lokesh2506/LEETCODE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lokesh2506/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -222,4 +226,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lokesh2506/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
