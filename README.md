@@ -51,6 +51,7 @@
 | [1920-build-array-from-permutation](https://github.com/lokesh2506/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 | [0724-find-pivot-index](https://github.com/lokesh2506/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
