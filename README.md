@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/lokesh2506/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lokesh2506/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -35,6 +36,7 @@
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/lokesh2506/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -96,6 +98,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lokesh2506/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -137,6 +140,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lokesh2506/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/lokesh2506/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -236,4 +240,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
