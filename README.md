@@ -101,6 +101,7 @@
 | [0001-two-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/lokesh2506/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@
 | [0014-longest-common-prefix](https://github.com/lokesh2506/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/lokesh2506/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/lokesh2506/LEETCODE/tree/master/0796-rotate-string) |
