@@ -1,25 +1,15 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        int size = strs.length;
-        if(size == 0) return "";
+        String prefix = strs[0];
 
-        if(size == 1) return strs[0];
-        // sort the array .so it will sorted based on the each leeter in the words
-        // ["flower","flow","flight"] -> ["flight","flow","flower",]
+        for(int i=1;i<strs.length;i++){
+            while(!strs[i].startsWith(prefix)){
+                prefix = prefix.substring(0,prefix.length()-1);
 
-        Arrays.sort(strs);
-
-        int minSize = Math.min(strs[0].length(),strs[size-1].length());
-
-        int i =0;
-        while(i<minSize){
-            if(strs[0].charAt(i) != strs[size-1].charAt(i)){
-                return strs[0].substring(0,i);
+                if(prefix.length() == 0) return "";
             }
-            i++;
         }
 
-        return strs[0].substring(0,i);
-
+        return prefix;
     }
 }
