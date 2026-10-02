@@ -18,12 +18,12 @@ class Solution {
         for(int i=0;i<ogSize;i++){
             char ch1 = s.charAt(i);
 
-            if(p.indexOf(ch1) != -1){
+            // if(p.indexOf(ch1) != -1){
                 map.put(ch1,map.getOrDefault(ch1,0)+1);
-            }else{
-                map.clear();
-                j = i+1;
-            }
+            // }else{
+                // map.clear();
+                // j = i+1;
+            // }
 
             // abca a-2 not acceptable
             while(i-j+1 > targetSize){
