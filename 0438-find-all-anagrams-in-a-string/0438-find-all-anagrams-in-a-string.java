@@ -18,7 +18,7 @@ class Solution {
         for(int i=0;i<ogSize;i++){
             char ch1 = s.charAt(i);
 
-            if(p.indexOf(ch1) != -1){
+            if(targetMap.containsKey(ch1)){
                 map.put(ch1,map.getOrDefault(ch1,0)+1);
             }else{
                 map.clear();
@@ -26,7 +26,7 @@ class Solution {
             }
 
             // abca a-2 not acceptable
-            while(i-j+1 > targetSize){
+            if(i-j+1 > targetSize){
                 char ch2 = s.charAt(j);
                 map.put(ch2,map.get(ch2)-1);
 
