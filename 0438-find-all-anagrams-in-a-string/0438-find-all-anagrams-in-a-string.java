@@ -26,7 +26,7 @@ class Solution {
             }
 
             // abca a-2 not acceptable
-            if(i-j+1 > targetSize){
+            while(i-j+1 > targetSize){
                 char ch2 = s.charAt(j);
                 map.put(ch2,map.get(ch2)-1);
 
