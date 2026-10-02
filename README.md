@@ -68,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/lokesh2506/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokesh2506/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -125,6 +126,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/lokesh2506/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -174,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
