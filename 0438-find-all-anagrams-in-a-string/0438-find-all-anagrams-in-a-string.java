@@ -18,7 +18,7 @@ class Solution {
         for(int i=0;i<ogSize;i++){
             char ch1 = s.charAt(i);
 
-            if(targetMap.containsKey(ch1)){
+            if(p.indexOf(ch1) != -1){
                 map.put(ch1,map.getOrDefault(ch1,0)+1);
             }else{
                 map.clear();
