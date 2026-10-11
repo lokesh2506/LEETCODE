@@ -5,24 +5,23 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
         map.put(0,-1);
 
-        int prefixSum = 0;
+        int sum = 0;
 
         for(int i=0;i<size;i++){
+            sum += nums[i];
 
-            prefixSum += nums[i];
-            int reminder = prefixSum % k;
+            int reminder = sum % k;
 
-            if(map.containsKey(reminder) ){
-                if((i - map.get(reminder)) >=2){
+            if(map.containsKey(reminder)){
+                if(i-map.get(reminder) >= 2){
                     return true;
                 }
-                
-            }else{
+            }
+            else{
                 map.put(reminder,i);
             }
         }
 
         return false;
-
     }
 }
