@@ -62,6 +62,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lokesh2506/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/lokesh2506/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/lokesh2506/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -136,6 +137,7 @@
 | [0904-fruit-into-baskets](https://github.com/lokesh2506/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -168,6 +170,7 @@
 | [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
