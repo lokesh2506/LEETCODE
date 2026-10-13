@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/lokesh2506/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lokesh2506/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lokesh2506/LEETCODE/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/lokesh2506/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -39,6 +40,7 @@
 | [0152-maximum-product-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokesh2506/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/lokesh2506/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lokesh2506/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -176,6 +178,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -285,6 +288,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Queue
 |  |
@@ -331,4 +335,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
