@@ -1,9 +1,12 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
-        for(int i=0;i<=Math.sqrt(n);i++){
-            if(Math.pow(4,i) == n) return true;
+        if(n<=0) return false;
+        // if(n == 1) return true;
+
+        while(n % 4 == 0){
+            n /= 4;
         }
 
-        return false;
+        return n == 1;
     }
 }
