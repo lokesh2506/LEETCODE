@@ -10,6 +10,7 @@
 | [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/lokesh2506/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/lokesh2506/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -227,6 +229,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
