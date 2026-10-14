@@ -19,6 +19,7 @@
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/lokesh2506/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
@@ -231,6 +232,7 @@
 | ------- |
 | [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
