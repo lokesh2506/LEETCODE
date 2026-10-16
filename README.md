@@ -52,6 +52,7 @@
 | [0283-move-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/lokesh2506/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -141,6 +142,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/lokesh2506/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -203,6 +205,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lokesh2506/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/lokesh2506/LEETCODE/tree/master/0724-find-pivot-index) |
