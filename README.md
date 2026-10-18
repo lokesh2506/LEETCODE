@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/lokesh2506/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lokesh2506/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lokesh2506/LEETCODE/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lokesh2506/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/lokesh2506/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh2506/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lokesh2506/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/lokesh2506/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/lokesh2506/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/lokesh2506/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -168,6 +170,7 @@
 | [0076-minimum-window-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lokesh2506/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/lokesh2506/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lokesh2506/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
