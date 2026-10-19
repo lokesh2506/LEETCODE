@@ -84,6 +84,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lokesh2506/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2256-minimum-average-difference](https://github.com/lokesh2506/LEETCODE/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/lokesh2506/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -224,6 +225,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokesh2506/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
+| [2256-minimum-average-difference](https://github.com/lokesh2506/LEETCODE/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/lokesh2506/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 ## Dynamic Programming
 |  |
