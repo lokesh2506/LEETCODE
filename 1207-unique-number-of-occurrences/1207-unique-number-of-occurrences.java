@@ -7,8 +7,11 @@ class Solution {
         }
 
         Set<Integer> set = new HashSet<>();
-        for(int i : map.values()){
-            set.add(i);
+        for (int count : map.values()) {
+            if (set.contains(count)) {
+                return false;
+            }
+            set.add(count);
         }
 
         return map.size() == set.size();
