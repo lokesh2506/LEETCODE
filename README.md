@@ -90,6 +90,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lokesh2506/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2256-minimum-average-difference](https://github.com/lokesh2506/LEETCODE/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/lokesh2506/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2352-equal-row-and-column-pairs) |
@@ -178,6 +179,7 @@
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokesh2506/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -216,6 +218,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
@@ -306,6 +309,7 @@
 | [0242-valid-anagram](https://github.com/lokesh2506/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Greedy
 |  |
 | ------- |
