@@ -21,6 +21,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/lokesh2506/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +86,7 @@
 | [1672-richest-customer-wealth](https://github.com/lokesh2506/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lokesh2506/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/lokesh2506/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -178,6 +180,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokesh2506/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lokesh2506/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2352-equal-row-and-column-pairs) |
@@ -218,6 +221,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
