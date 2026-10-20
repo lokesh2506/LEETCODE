@@ -34,6 +34,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lokesh2506/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/lokesh2506/LEETCODE/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/lokesh2506/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lokesh2506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -124,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lokesh2506/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/lokesh2506/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh2506/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/lokesh2506/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lokesh2506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0076-minimum-window-substring) |
