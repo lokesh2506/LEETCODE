@@ -74,6 +74,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/lokesh2506/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1109-corporate-flight-bookings](https://github.com/lokesh2506/LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/lokesh2506/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -309,6 +310,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/lokesh2506/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/lokesh2506/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
