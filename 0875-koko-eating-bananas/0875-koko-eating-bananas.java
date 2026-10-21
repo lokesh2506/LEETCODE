@@ -29,7 +29,9 @@ class Solution {
     public boolean kokoCanEat(int [] piles, int hours , int speed){
         long result  = 0;
         for(int i=0;i<piles.length;i++){
-            result += Math.ceil((double)piles[i]/speed);
+            // result += Math.ceil((double)piles[i]/speed);
+
+            result += (piles[i] + speed - 1) / speed;
 
             if(result > hours) return false;
         }
