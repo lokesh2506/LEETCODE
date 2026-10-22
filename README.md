@@ -85,6 +85,7 @@
 | [1470-shuffle-the-array](https://github.com/lokesh2506/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokesh2506/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/lokesh2506/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -126,6 +127,7 @@
 | [0680-valid-palindrome-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/lokesh2506/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lokesh2506/LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lokesh2506/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -311,6 +313,7 @@
 | [0875-koko-eating-bananas](https://github.com/lokesh2506/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lokesh2506/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [0242-valid-anagram](https://github.com/lokesh2506/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Greedy
 |  |
