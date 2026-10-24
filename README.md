@@ -80,6 +80,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh2506/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lokesh2506/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/lokesh2506/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1109-corporate-flight-bookings](https://github.com/lokesh2506/LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/lokesh2506/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -300,6 +301,7 @@
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/lokesh2506/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/lokesh2506/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
