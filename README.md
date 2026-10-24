@@ -89,6 +89,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lokesh2506/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/lokesh2506/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lokesh2506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -334,6 +335,7 @@
 | [0875-koko-eating-bananas](https://github.com/lokesh2506/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/lokesh2506/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lokesh2506/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lokesh2506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
