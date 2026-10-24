@@ -107,6 +107,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/lokesh2506/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokesh2506/LEETCODE/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lokesh2506/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2256-minimum-average-difference](https://github.com/lokesh2506/LEETCODE/tree/master/2256-minimum-average-difference) |
@@ -400,6 +401,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh2506/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/lokesh2506/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokesh2506/LEETCODE/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Enumeration
