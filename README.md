@@ -21,6 +21,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/lokesh2506/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1922-count-good-numbers) |
@@ -344,6 +345,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lokesh2506/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lokesh2506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -371,6 +373,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/lokesh2506/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2938-separate-black-and-white-balls](https://github.com/lokesh2506/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
