@@ -121,6 +121,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/lokesh2506/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -417,6 +418,7 @@
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokesh2506/LEETCODE/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/lokesh2506/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Enumeration
 |  |
