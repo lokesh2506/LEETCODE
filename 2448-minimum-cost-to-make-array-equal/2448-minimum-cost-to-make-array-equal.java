@@ -1,26 +1,29 @@
 class Solution {
     public long minCost(int[] nums, int[] cost) {
-        long left = nums[0];
-        long right = nums[0];
+        long answer = Long.MAX_VALUE;
 
-
-        for (int num : nums) {
-            left = Math.min(left, num);
-            right = Math.max(right, num);
+        int left = Integer.MAX_VALUE;
+        int right = Integer.MIN_VALUE;
+        for (int n: nums) {
+            left = Math.min(left, n);
+            right = Math.max(right, n);
         }
 
-        while(left <right){
-            long mid = left +(right-left)/2; 
-            long cost1 = getCost(nums,cost,mid);
-            long cost2 = getCost(nums,cost,mid+1);
-            if(cost1<cost2){
-                right = mid;
-            }else{
-                left = mid +1;
+        while (left <= right) {
+            int mid = left + (right-left)/2;
+
+            long cost1 = getCost(nums, cost, mid);
+            long cost2 = getCost(nums, cost, mid+1);
+
+            if (cost1 <= cost2) {
+                right = mid - 1;
+                answer = Math.min(answer, Math.min(cost1, cost2));
+            } else {
+                left = mid + 1;
             }
         }
+        return answer;
 
-        return getCost(nums,cost,left);
     }
 
     public long getCost(int [] nums,int [] costs,long target){
