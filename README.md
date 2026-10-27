@@ -117,6 +117,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2352-equal-row-and-column-pairs) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -292,6 +293,7 @@
 | [2256-minimum-average-difference](https://github.com/lokesh2506/LEETCODE/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/lokesh2506/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -348,6 +350,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -365,6 +368,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -376,6 +380,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/lokesh2506/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 ## String Matching
 |  |
