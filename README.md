@@ -101,6 +101,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/lokesh2506/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/lokesh2506/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokesh2506/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/lokesh2506/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/lokesh2506/LEETCODE/tree/master/1695-maximum-erasure-value) |
@@ -369,6 +370,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lokesh2506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/lokesh2506/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/lokesh2506/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -388,6 +390,7 @@
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1552-magnetic-force-between-two-balls](https://github.com/lokesh2506/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/lokesh2506/LEETCODE/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
