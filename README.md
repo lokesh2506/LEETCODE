@@ -254,6 +254,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lokesh2506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2938-separate-black-and-white-balls](https://github.com/lokesh2506/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/lokesh2506/LEETCODE/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Counting
 |  |
@@ -436,6 +437,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lokesh2506/LEETCODE/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/lokesh2506/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/lokesh2506/LEETCODE/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Enumeration
 |  |
