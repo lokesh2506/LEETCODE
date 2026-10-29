@@ -5,17 +5,14 @@ class Solution {
         }
 
         boolean prime[] = new boolean[n];
-        Arrays.fill(prime,true);
-        prime[0] = false;
-        prime[1] = false;
 
         int count = n-2; // o and 1 neglated
         
         for(int i=2;i<=Math.sqrt(n-1);i++){
-            if(prime[i]){
+            if(!prime[i]){
                 for(int j = i*i;j<n;j+=i){
-                    if(prime[j]){
-                        prime[j] = false;
+                    if(!prime[j]){
+                        prime[j] = true;
                         count--;
                     }
                 }
