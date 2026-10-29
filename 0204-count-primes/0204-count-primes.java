@@ -8,9 +8,10 @@ class Solution {
 
         int count = n-2; // o and 1 neglated
         
-        for(int i=2;i<=Math.sqrt(n-1);i++){
+        for(int i=2;i<=Math.sqrt(n);i++){
             if(!prime[i]){
                 for(int j = i*i;j<n;j+=i){
+                    // in worst case i can make that 2 time true;
                     if(!prime[j]){
                         prime[j] = true;
                         count--;
