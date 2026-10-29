@@ -130,6 +130,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2352-equal-row-and-column-pairs) |
+| [2439-minimize-maximum-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/lokesh2506/LEETCODE/tree/master/2560-house-robber-iv) |
@@ -321,6 +322,7 @@
 | [2256-minimum-average-difference](https://github.com/lokesh2506/LEETCODE/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/lokesh2506/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
 |  |
@@ -342,6 +344,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lokesh2506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2439-minimize-maximum-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2560-house-robber-iv](https://github.com/lokesh2506/LEETCODE/tree/master/2560-house-robber-iv) |
 ## Stack
 |  |
@@ -393,6 +396,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lokesh2506/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/lokesh2506/LEETCODE/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -426,6 +430,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2439-minimize-maximum-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/lokesh2506/LEETCODE/tree/master/2560-house-robber-iv) |
 | [2938-separate-black-and-white-balls](https://github.com/lokesh2506/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
