@@ -1,27 +1,29 @@
 class Solution {
     public int countPrimes(int n) {
-        if(n <= 2) return 0;
+        if(n == 0 || n==1){
+            return 0;
+        }
 
-        boolean isPrime[] = new boolean[n];
-        Arrays.fill(isPrime, true);
+        boolean prime[] = new boolean[n];
+        Arrays.fill(prime,true);
+        prime[0] = false;
+        prime[1] = false;
 
-        isPrime[0] = false;
-        isPrime[1] = false;
-
-        int primeCount = n-2; // bcoz 1 is not a prime 2 to n-1 we need to remove n-2
-
-        for(int i=2;i<= Math.sqrt(n-1);i++){
-            if(isPrime[i]){
-                for(int j = i*i; j<n;j+=i){
-                    if(isPrime[j]){
-                        isPrime[j] = false;
-                        primeCount--;
+        int count = n-2; // o and 1 neglated
+        
+        for(int i=2;i<=Math.sqrt(n-1);i++){
+            if(prime[i]){
+                for(int j = i*i;j<n;j+=i){
+                    if(prime[j]){
+                        prime[j] = false;
+                        count--;
                     }
                 }
             }
         }
 
-        return primeCount;
+
+        return count;
 
     }
 }
