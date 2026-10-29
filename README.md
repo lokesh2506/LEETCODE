@@ -20,6 +20,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lokesh2506/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lokesh2506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/lokesh2506/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -103,6 +104,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/lokesh2506/LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lokesh2506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/lokesh2506/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/lokesh2506/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokesh2506/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -312,6 +314,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh2506/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lokesh2506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokesh2506/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lokesh2506/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -335,6 +338,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/lokesh2506/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lokesh2506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lokesh2506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
