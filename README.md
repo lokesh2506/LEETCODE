@@ -51,6 +51,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lokesh2506/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lokesh2506/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/lokesh2506/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lokesh2506/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -172,6 +173,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lokesh2506/LEETCODE/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
@@ -568,4 +570,8 @@
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lokesh2506/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lokesh2506/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
