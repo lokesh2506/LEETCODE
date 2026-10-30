@@ -113,6 +113,7 @@
 | [1695-maximum-erasure-value](https://github.com/lokesh2506/LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lokesh2506/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1774-closest-dessert-cost](https://github.com/lokesh2506/LEETCODE/tree/master/1774-closest-dessert-cost) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -344,6 +345,7 @@
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/lokesh2506/LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lokesh2506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1774-closest-dessert-cost](https://github.com/lokesh2506/LEETCODE/tree/master/1774-closest-dessert-cost) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lokesh2506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2439-minimize-maximum-of-array](https://github.com/lokesh2506/LEETCODE/tree/master/2439-minimize-maximum-of-array) |
@@ -574,4 +576,13 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lokesh2506/LEETCODE/tree/master/0078-subsets) |
+| [1774-closest-dessert-cost](https://github.com/lokesh2506/LEETCODE/tree/master/1774-closest-dessert-cost) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1774-closest-dessert-cost](https://github.com/lokesh2506/LEETCODE/tree/master/1774-closest-dessert-cost) |
+## Mixed Knapsack
+|  |
+| ------- |
+| [1774-closest-dessert-cost](https://github.com/lokesh2506/LEETCODE/tree/master/1774-closest-dessert-cost) |
 <!---LeetCode Topics End-->
