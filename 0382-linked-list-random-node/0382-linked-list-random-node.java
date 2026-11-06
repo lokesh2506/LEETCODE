@@ -1,44 +1,37 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
+
+import java.util.Random;
+
 class Solution {
 
     ListNode head;
     int size = 0;
+    Random random = new Random();
+
     public Solution(ListNode head) {
+
         this.head = head;
 
-        // real will not lose it is reference head from parameter
+        ListNode temp = head;
 
-        while(head != null){
-            head = head.next;
-            this.size++;
+        // Calculate linked list size
+        while(temp != null) {
+            size++;
+            temp = temp.next;
         }
-
     }
-    
+
     public int getRandom() {
-        int randomNum = (int)(Math.random() * this.size);
 
-        ListNode temp = this.head;
+        // Generate random index
+        int randomIndex = random.nextInt(size);
 
-        for(int i = 0;i<randomNum;i++){
+        ListNode temp = head;
+
+        // Traverse to random index
+        for(int i = 0; i < randomIndex; i++) {
             temp = temp.next;
         }
 
         return temp.val;
     }
 }
-
-/**
- * Your Solution object will be instantiated and called as such:
- * Solution obj = new Solution(head);
- * int param_1 = obj.getRandom();
- */
