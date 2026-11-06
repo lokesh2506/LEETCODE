@@ -177,6 +177,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lokesh2506/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2938-separate-black-and-white-balls](https://github.com/lokesh2506/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
@@ -370,6 +371,7 @@
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/lokesh2506/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -626,5 +628,6 @@
 | [0725-split-linked-list-in-parts](https://github.com/lokesh2506/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/lokesh2506/LEETCODE/tree/master/1669-merge-in-between-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lokesh2506/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
