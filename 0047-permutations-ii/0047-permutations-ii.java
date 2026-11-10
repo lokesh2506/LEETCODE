@@ -24,9 +24,9 @@ class Solution {
                 continue;
             }
 
-            if( i > 0 && nums[i] == nums[i - 1] && !used[i-1]){
-                continue;
-            }
+            // if( i > 0 && nums[i] == nums[i - 1] && !used[i-1]){
+            //     continue;
+            // }
 
             curr.add(nums[i]);
             used[i] = true;
@@ -35,6 +35,10 @@ class Solution {
 
             curr.remove(curr.size()-1);
             used[i] = false;
+
+            while (i < nums.length - 1 && nums[i] == nums[i + 1]) {
+                i++;
+            }
         }
     } 
 }
