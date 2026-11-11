@@ -1,36 +1,32 @@
 class Solution {
+    HashSet<List<Integer>> set = new HashSet<>();
+
     public List<List<Integer>> findSubsequences(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
         List<Integer> curr = new ArrayList<>();
-        solve(nums,0,curr,ans);
+        solve(nums,0,curr);
+        List<List<Integer>> ans = new ArrayList<>(set);
+
 
         return ans;
     }
 
-    public void solve(int [] nums, int index, List<Integer> curr,List<List<Integer>> ans){
+    public void solve(int [] nums, int index, List<Integer> curr){
         if(curr.size() >= 2){
-            ans.add(new ArrayList<>(curr));
+            set.add(new ArrayList<>(curr));
         }
 
         if(index == nums.length){
             return;
         }
 
-        HashSet<Integer> set = new HashSet<>();
-
         for(int i=index;i<nums.length;i++){
-            if(set.contains(nums[i])){
-                continue;
-            }
-
+            // prev element should be less than the current element
             if (!curr.isEmpty() && nums[i] < curr.get(curr.size() - 1)) {
                 continue;
             }
 
-            set.add(nums[i]);
-
             curr.add(nums[i]);
-            solve(nums,i+1,curr,ans);
+            solve(nums,i+1,curr);
             curr.remove(curr.size() - 1);
 
         }
