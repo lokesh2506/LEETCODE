@@ -83,6 +83,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/lokesh2506/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -193,6 +194,7 @@
 | [0090-subsets-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -238,6 +240,7 @@
 | [0290-word-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -614,6 +617,7 @@
 | [0078-subsets](https://github.com/lokesh2506/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/lokesh2506/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1774-closest-dessert-cost](https://github.com/lokesh2506/LEETCODE/tree/master/1774-closest-dessert-cost) |
 ## Knapsack Problem
 |  |
