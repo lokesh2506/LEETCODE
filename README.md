@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/lokesh2506/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lokesh2506/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lokesh2506/LEETCODE/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lokesh2506/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/lokesh2506/LEETCODE/tree/master/0263-ugly-number) |
@@ -66,6 +67,7 @@
 | [0119-pascals-triangle-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokesh2506/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lokesh2506/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lokesh2506/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -380,6 +382,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/lokesh2506/LEETCODE/tree/master/0844-backspace-string-compare) |
