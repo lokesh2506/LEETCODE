@@ -86,6 +86,7 @@
 | [0410-split-array-largest-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -243,6 +244,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh2506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -385,12 +387,14 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/lokesh2506/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
