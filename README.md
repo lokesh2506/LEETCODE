@@ -87,6 +87,7 @@
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lokesh2506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -390,6 +391,7 @@
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lokesh2506/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/lokesh2506/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -398,6 +400,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
