@@ -61,6 +61,7 @@
 | [0074-search-a-2d-matrix](https://github.com/lokesh2506/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lokesh2506/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lokesh2506/LEETCODE/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/lokesh2506/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -211,6 +212,7 @@
 | [0054-spiral-matrix](https://github.com/lokesh2506/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lokesh2506/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/lokesh2506/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -369,6 +371,7 @@
 | [0022-generate-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lokesh2506/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokesh2506/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -391,6 +394,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -407,6 +411,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0503-next-greater-element-ii) |
