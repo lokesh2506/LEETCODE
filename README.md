@@ -84,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/lokesh2506/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/lokesh2506/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/lokesh2506/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -393,6 +394,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lokesh2506/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lokesh2506/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lokesh2506/LEETCODE/tree/master/0739-daily-temperatures) |
@@ -437,6 +440,7 @@
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/lokesh2506/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokesh2506/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/lokesh2506/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/lokesh2506/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -627,6 +631,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0456-132-pattern) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lokesh2506/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Backtracking
 |  |
