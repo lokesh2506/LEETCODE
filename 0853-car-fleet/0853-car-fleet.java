@@ -18,7 +18,7 @@ class Solution {
         for(int i=0;i<n;i++){
             double time = (double) (target - cars[i][0]) / cars[i][1];
 
-            while(stack.isEmpty() || stack.peek() < time){
+            if(stack.isEmpty() || stack.peek() < time){
                 stack.push(time);
             }
         }
