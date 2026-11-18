@@ -15,11 +15,13 @@ class Solution {
             if(status) stack.push(ch);
         }
 
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
+
         while(!stack.isEmpty()){
-            ans = stack.pop()+ ans;
+            ans.append(stack.pop());
         }
 
-        return ans;
+        return ans.reverse().toString();
+
     }
 }
