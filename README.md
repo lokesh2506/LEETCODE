@@ -288,6 +288,7 @@
 | [0020-valid-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/lokesh2506/LEETCODE/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/lokesh2506/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/lokesh2506/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lokesh2506/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -399,6 +400,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/lokesh2506/LEETCODE/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lokesh2506/LEETCODE/tree/master/0155-min-stack) |
