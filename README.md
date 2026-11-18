@@ -305,6 +305,7 @@
 | [0680-valid-palindrome-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/lokesh2506/LEETCODE/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/lokesh2506/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh2506/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/lokesh2506/LEETCODE/tree/master/1208-get-equal-substrings-within-budget) |
@@ -416,6 +417,7 @@
 | [0844-backspace-string-compare](https://github.com/lokesh2506/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/lokesh2506/LEETCODE/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/lokesh2506/LEETCODE/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh2506/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/lokesh2506/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -511,6 +513,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/lokesh2506/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/lokesh2506/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh2506/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -717,5 +720,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh2506/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
