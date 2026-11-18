@@ -396,6 +396,7 @@
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/lokesh2506/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lokesh2506/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lokesh2506/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -616,6 +617,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/lokesh2506/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lokesh2506/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lokesh2506/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [1352-product-of-the-last-k-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
