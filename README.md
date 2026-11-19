@@ -136,6 +136,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lokesh2506/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1774-closest-dessert-cost](https://github.com/lokesh2506/LEETCODE/tree/master/1774-closest-dessert-cost) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/lokesh2506/LEETCODE/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -192,6 +193,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lokesh2506/LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lokesh2506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lokesh2506/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -427,6 +429,7 @@
 | [0946-validate-stack-sequences](https://github.com/lokesh2506/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lokesh2506/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/lokesh2506/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -442,6 +445,7 @@
 | [0739-daily-temperatures](https://github.com/lokesh2506/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/lokesh2506/LEETCODE/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/lokesh2506/LEETCODE/tree/master/0901-online-stock-span) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -484,6 +488,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lokesh2506/LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/lokesh2506/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/lokesh2506/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/lokesh2506/LEETCODE/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh2506/LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lokesh2506/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -733,4 +738,8 @@
 | [0022-generate-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lokesh2506/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lokesh2506/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/lokesh2506/LEETCODE/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
