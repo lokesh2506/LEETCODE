@@ -159,6 +159,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh2506/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/lokesh2506/LEETCODE/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2751-robot-collisions](https://github.com/lokesh2506/LEETCODE/tree/master/2751-robot-collisions) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lokesh2506/LEETCODE/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lokesh2506/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/lokesh2506/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -236,6 +237,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/lokesh2506/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2751-robot-collisions](https://github.com/lokesh2506/LEETCODE/tree/master/2751-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/lokesh2506/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2751-robot-collisions](https://github.com/lokesh2506/LEETCODE/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -512,6 +515,7 @@
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lokesh2506/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lokesh2506/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2751-robot-collisions](https://github.com/lokesh2506/LEETCODE/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
