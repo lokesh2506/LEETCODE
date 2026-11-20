@@ -13,13 +13,29 @@ class Solution {
         if(lists == null || lists.length == 0){
             return null;
         }
-        ListNode result = lists[0];
 
-        for(int i=1;i<lists.length;i++){
-            result = merge(result,lists[i]);
+        int interval = 1;
+        int k = lists.length;
+
+        while(interval < k){
+
+            for(int i = 0; i + interval < k; i += interval * 2){
+
+                lists[i] = merge(lists[i], lists[i + interval]);
+
+            }
+
+            interval *= 2;
         }
 
-        return result;
+        return lists[0];
+        // ListNode result = lists[0];
+
+        // for(int i=1;i<lists.length;i++){
+        //     result = merge(result,lists[i]);
+        // }
+
+        // return result;
     }
 
     public ListNode merge(ListNode left , ListNode right){
