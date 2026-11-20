@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lokesh2506/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/lokesh2506/LEETCODE/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/lokesh2506/LEETCODE/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/lokesh2506/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lokesh2506/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
@@ -302,6 +303,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lokesh2506/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/lokesh2506/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/lokesh2506/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/lokesh2506/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lokesh2506/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/lokesh2506/LEETCODE/tree/master/0344-reverse-string) |
@@ -415,6 +417,7 @@
 | [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lokesh2506/LEETCODE/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/lokesh2506/LEETCODE/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/lokesh2506/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lokesh2506/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -455,6 +458,7 @@
 | [0002-add-two-numbers](https://github.com/lokesh2506/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/lokesh2506/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/lokesh2506/LEETCODE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/lokesh2506/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lokesh2506/LEETCODE/tree/master/0509-fibonacci-number) |
