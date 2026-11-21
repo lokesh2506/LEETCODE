@@ -415,6 +415,7 @@
 | [0042-trapping-rain-water](https://github.com/lokesh2506/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/lokesh2506/LEETCODE/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/lokesh2506/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokesh2506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lokesh2506/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lokesh2506/LEETCODE/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/lokesh2506/LEETCODE/tree/master/0224-basic-calculator) |
@@ -761,4 +762,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lokesh2506/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokesh2506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokesh2506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lokesh2506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
