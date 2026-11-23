@@ -779,6 +779,7 @@
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -793,6 +794,7 @@
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -808,6 +810,7 @@
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
