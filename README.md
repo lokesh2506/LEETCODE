@@ -549,6 +549,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/lokesh2506/LEETCODE/tree/master/0796-rotate-string) |
 ## Quicksort
 |  |
@@ -777,6 +778,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh2506/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -790,6 +792,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh2506/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -804,6 +807,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh2506/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -818,4 +822,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
