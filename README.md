@@ -781,6 +781,7 @@
 | [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/lokesh2506/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -797,6 +798,7 @@
 | [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/lokesh2506/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -814,6 +816,7 @@
 | [0572-subtree-of-another-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/lokesh2506/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
