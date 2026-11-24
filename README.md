@@ -211,6 +211,7 @@
 | [0342-power-of-four](https://github.com/lokesh2506/LEETCODE/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/lokesh2506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0832-flipping-an-image](https://github.com/lokesh2506/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -786,6 +787,7 @@
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -806,6 +808,7 @@
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -827,6 +830,7 @@
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -838,6 +842,7 @@
 | [0112-path-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
