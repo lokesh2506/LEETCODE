@@ -785,6 +785,7 @@
 | [0814-binary-tree-pruning](https://github.com/lokesh2506/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -804,6 +805,7 @@
 | [0814-binary-tree-pruning](https://github.com/lokesh2506/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -824,6 +826,7 @@
 | [0814-binary-tree-pruning](https://github.com/lokesh2506/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/lokesh2506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/lokesh2506/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -834,6 +837,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lokesh2506/LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/lokesh2506/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
